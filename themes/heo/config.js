@@ -17,7 +17,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '知行合一',
   HEO_HERO_TITLE_2: '答案在行动里',
   HEO_HERO_TITLE_3: 'patience is key in life',
-  // HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: 'sakura',
   HEO_HERO_TITLE_5: '悟已往之不谏，知来者之可追',
   // HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
@@ -45,8 +45,8 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_TEXT1:'🎉欢迎来到我的博客🎉',
-  HEO_INFO_CARD_TEXT2:'👏👏👏',
+  HEO_HERO_TITLE_1:'🎉欢迎来到我的博客🎉',
+  HEO_HERO_TITLE_2:'👏👏👏',
   HEO_INFO_CARD_URL2: 'https://github.com/NCKDCOK',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://blog.sakura13.sbs/about',
