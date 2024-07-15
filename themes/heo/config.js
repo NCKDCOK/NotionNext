@@ -45,8 +45,6 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_HERO_TITLE_1:'🎉欢迎来到我的博客🎉',
-  HEO_HERO_TITLE_2:'👏👏👏',
   HEO_INFO_CARD_URL2: 'https://github.com/NCKDCOK',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://blog.sakura13.sbs/about',
